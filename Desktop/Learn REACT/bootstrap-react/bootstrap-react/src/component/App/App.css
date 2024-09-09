@@ -1,0 +1,16 @@
+
+.button {
+  width: 85%;
+  margin: 0px 10px 10px 0px;
+  
+}
+
+.container {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.close {
+  width: 10%;
+  margin: 0px 10px 10px 0px;
+}

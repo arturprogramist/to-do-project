@@ -1,0 +1,13 @@
+.shadow {
+    box-shadow: 10px, 10px, 15px, rgba(0, 0, 0, .15);
+}
+
+.btnTask {
+    max-width: 92%;
+    word-wrap: break-word;
+}
+
+.btnDone {
+    max-width: 9%;
+    word-wrap: break-word;
+}
