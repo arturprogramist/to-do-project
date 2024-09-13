@@ -1,1 +1,0 @@
-.test{position:relative;background-color:#f0f8ff00}.test:before{content:"";position:absolute;top:0;left:0;width:0;height:100%;background:#00000045;border-radius:5px;transition:all 1.5s ease;z-index:-1}.test:hover:before{width:100%}
